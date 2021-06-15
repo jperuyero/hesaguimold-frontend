@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export const Services = () => {
   return (
-    <div className="tw-h-80-vh tw-pt-20" id='Services'>
+    <div className="tw-min-h-80-vh tw-pt-20" id='Services'>
       <h1 className="tw-text-4xl tw-font-bold tw-text-center tw-mb-20 tw-uppercase">
         Our Services
       </h1>

@@ -19,7 +19,7 @@ export const HomeSlider = () => {
       <SwiperSlide>
         {({ isActive }) => (
           <section className="tw-relative">
-            <div className="tw-w-full tw-h-80-vh tw-filter tw-brightness-25">
+            <div className="tw-w-full tw-min-h-80-vh tw-filter tw-brightness-25">
               <Image
                 src="/assets/images/plant.png"
                 alt="plant"

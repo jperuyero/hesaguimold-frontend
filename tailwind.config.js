@@ -11,6 +11,9 @@ module.exports = {
       height: {
         '80-vh': '80vh',
       },
+      minHeight: {
+        '80-vh': '80vh',
+      },
     },
   },
   variants: {
